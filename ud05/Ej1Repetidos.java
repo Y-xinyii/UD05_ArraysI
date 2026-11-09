@@ -4,7 +4,7 @@ public class Ej1Repetidos{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Introducir 15 números: ");
+        System.out.println("Introducir 15 números enteros: ");
         
         int[] arra1 = new int[15];
         for(int i = 0; i < arra1.length; i++){
